@@ -63,7 +63,7 @@
 - [ ] threshold alert in Azure App insights
 - [x] third party services (GitHub)
 
-#### Q10. Which messaging service enables an even-driven programming model?
+#### Q10. Which messaging service enables an event-driven programming model?
 
 - [ ] Service Bus
 - [ ] Event Hub
